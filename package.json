@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "joi": "^17.10.1",
+    "mongoose": "^7.5.0",
+    "validator": "^13.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "name": "crud_teacherandclasses",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "nodemon",
+    "ejs",
+    "crud_nodemon",
+    "crud_ejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
